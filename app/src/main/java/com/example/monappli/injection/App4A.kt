@@ -13,7 +13,7 @@ class App4A :   Application(){
             // Android context
             androidContext(this@App4A)
             // modules
-            modules(presentationModule)
+            modules(presentationModule, domainModule, dataModule)
 
         }
     }
