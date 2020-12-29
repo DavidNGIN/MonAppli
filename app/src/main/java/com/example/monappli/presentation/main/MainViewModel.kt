@@ -29,8 +29,16 @@ class MainViewModel(
             withContext(Dispatchers.Main){
                 loginLiveData.value = loginStatus
             }
+
         }
       // counter.value = (counter.value ?: 0) + 1
    }
-
+    fun onClickedCreate(emailUser: String, password: String){
+        viewModelScope.launch(Dispatchers.IO) {
+            val newUser = User(emailUser)
+            createUserUseCase.invoke(newUser)
+            }
+        }
     }
+
+
