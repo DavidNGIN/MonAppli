@@ -34,7 +34,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 ### Voici le logo de mon application:
 J'ai donc modifié l'icône android afin de réadapter le logiciel à mon programme:
 
-![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGO.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGOAPPLI.PNG)
 
 ### Voci la page de login de mon application:
 - Nous pouvons voir un espace pour s'identifier avec un identifiant et un mot de passe. Un peu plus bas, on apercoit la publicité "mensongère"
