@@ -78,7 +78,7 @@ J'active donc le mode avion:
 
 - L'application reste toujours fonctionelle :
 
-![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/WITHOUTINTERNET2.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/MODEAVIONS.PNG)
 
 
 
