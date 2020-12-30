@@ -65,7 +65,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 
 - Ainsi quand on va se connecter grâce au bouton LOGIN, nous allons voir un message de SUCCESS pour ensuite être redirigé vers la liste :
 
-![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/SUCCESS.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/SUCCESS_CONNECT.PNG)
 
 - Voici ensuite la redirection vers la liste :
 
