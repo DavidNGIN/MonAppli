@@ -36,18 +36,33 @@ J'ai donc modifié l'icône android afin de réadapter le logiciel à mon progra
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGO.PNG)
 
-### La première interface de mon application:
-- Nous pouvons voir en dessous du nom du personnage leur nature. (sayan , android..)
+### Voci la page de login de mon application:
+- Nous pouvons voir un espace pour s'identifier avec un identifiant et un mot de passe. Un peu plus bas, on apercoit la publicité "mensongère"
 
-![dbz2](https://user-images.githubusercontent.com/64992966/82583995-25364480-9b94-11ea-80af-e494da58910d.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/Photo1.PNG)
 
-### Vous avez ici un aperçu des détails sur la deuxième interface: 
-- Nous pouvons voir les details que j'ai choisis d'afficher et surtout une photo pour chaques personnages.
+### la publicité "mensongère:
+- Nous pouvons voir qu'un message POP-UP qui apparait grâce au snackbar.
 
-![dbz3](https://user-images.githubusercontent.com/64992966/82584095-4860f400-9b94-11ea-83ca-5b08f2da8794.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/CLICKPUB.PNG)
 
-### Et pour finir nous pouvons voir ici que même sans connexion internet l'application fonctionne:
-- Stockage de données en cache
-- Un "Toast" (fenêtre éphémère) en bas, nous pouvons voir le nom du personnage selectionné.
+### Identification sur l'application:
+Pour pouvoir accéder à la liste, nous devons être enregistré dans l'application. Si nous utilisons déja un compte crée, nous n'allons pas avoir le message d'erreur
 
-![dbz4](https://user-images.githubusercontent.com/64992966/82584676-1c923e00-9b95-11ea-93f7-f883a46ed187.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/Photo1.PNG)
+
+Le compte n'existant pas, on obtient un message d'erreur:
+
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGIDERREUR.PNG)
+
+En appuyant sur "INSCRIPTION" cela va automatiquement nous inscrire dans la base de donnée:
+
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/Photo1.PNG)
+
+Ainsi quand on va se connecter grâce au bouton LOGIN, nous allons voir un message de SUCCESS pour ensuite être redirigé vers la liste :
+
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/SUCCESS.PNG)
+
+Voici ensuite la redirection vers la liste :
+
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/API.PNG)
