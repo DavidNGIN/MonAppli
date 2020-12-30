@@ -32,7 +32,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 ## Fonctionnalités :
 
 ### Voici le logo de mon application:
-J'ai donc modifié l'icône android afin de réadapter le logiciel à mon programme:
+- J'ai donc modifié l'icône android afin de réadapter le logiciel à mon programme:
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGOAPPLI.PNG)
 
@@ -47,7 +47,7 @@ J'ai donc modifié l'icône android afin de réadapter le logiciel à mon progra
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/CLICKPUB.PNG)
 
 ### Identification sur l'application:
-Pour pouvoir accéder à la liste, nous devons être enregistré dans l'application. Si nous utilisons déja un compte crée, nous n'allons pas avoir le message d'erreur
+- Pour pouvoir accéder à la liste, nous devons être enregistré dans l'application. Si nous utilisons déja un compte crée, nous n'allons pas avoir le message d'erreur
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGIDENREGISTRER.PNG)
 
@@ -55,15 +55,15 @@ Le compte n'existant pas, on obtient un message d'erreur:
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGIDERREUR.PNG)
 
-En appuyant sur "INSCRIPTION" cela va automatiquement nous inscrire dans la base de donnée:
+- En appuyant sur "INSCRIPTION" cela va automatiquement nous inscrire dans la base de donnée:
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/Photo1.PNG)
 
-Ainsi quand on va se connecter grâce au bouton LOGIN, nous allons voir un message de SUCCESS pour ensuite être redirigé vers la liste :
+- Ainsi quand on va se connecter grâce au bouton LOGIN, nous allons voir un message de SUCCESS pour ensuite être redirigé vers la liste :
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/SUCCESS.PNG)
 
-Voici ensuite la redirection vers la liste :
+- Voici ensuite la redirection vers la liste :
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/API.PNG)
 
