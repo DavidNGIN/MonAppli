@@ -19,7 +19,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 ## Ce que j'ai pu réalisé dans mon projet:
 - Affichage d'une page de LOGIN
 - L'affichage d'une liste d'élements dans un RecyclerView 
-- Mise en place d'une base de donnée pour la prise en compte d'utilisateur
+- Mise en place d'une base de donnée pour la prise en compte d'utilisateur (grâce à ROOM)
 - Mise en place d'une API REST 
 - La création de mon propre API (API hébergé sur mon github "dbzApi.json")
 - Le stockage de données en cache 
