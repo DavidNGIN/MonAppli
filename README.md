@@ -68,7 +68,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 
 - Voici ensuite la redirection vers la liste :
 
-![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/API.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/APIFINAL.PNG)
 
 ### Enfin, mon application fonctionne aussi sans connexion internet:
 - Stockage de données en cache
