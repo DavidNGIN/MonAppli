@@ -45,7 +45,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/Photo1.PNG)
 
-### la publicité "mensongère:
+### la publicité "mensongère":
 - Nous pouvons voir qu'un message POP-UP apparait en turquoise lorsqu'on clique sur le bouton "CLICK HERE" grâce à la fonctionnalité SNACKBAR.
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/CLICKPUB.PNG)
