@@ -51,7 +51,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGIDENREGISTRER.PNG)
 
-Le compte n'existant pas, on obtient un message d'erreur:
+- Le compte n'existant pas, on obtient un message d'erreur:
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGIDERREUR.PNG)
 
@@ -73,7 +73,7 @@ J'active donc le mode avion:
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/WITHOUTINTERNET.PNG)
 
-L'application reste toujours fonctionelle :
+- L'application reste toujours fonctionelle :
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/WITHOUTINTERNET2.PNG)
 
