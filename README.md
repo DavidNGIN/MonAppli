@@ -49,7 +49,7 @@ J'ai donc modifié l'icône android afin de réadapter le logiciel à mon progra
 ### Identification sur l'application:
 Pour pouvoir accéder à la liste, nous devons être enregistré dans l'application. Si nous utilisons déja un compte crée, nous n'allons pas avoir le message d'erreur
 
-![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/Photo1.PNG)
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/LOGIDENREGISTRER.PNG)
 
 Le compte n'existant pas, on obtient un message d'erreur:
 
