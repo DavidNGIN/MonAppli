@@ -72,7 +72,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/APIFINAL.PNG)
 
 ### Enfin, mon application fonctionne aussi sans connexion internet:
-- Stockage de données en cache.
+- Stockage de données en cache
 J'active donc le mode avion:
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/WITHOUTINTERNET.PNG)
