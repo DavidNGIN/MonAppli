@@ -17,17 +17,20 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 - Avoir quelques notions en KOTLIN
 
 ## Ce que j'ai pu réalisé dans mon projet:
-- Une Page de LOGIN qui permet de créer unc compte et de s'identifier
-- Mise en place d'une publicité mensongère
+- Affichage d'une page de LOGIN
 - L'affichage d'une liste d'élements dans un RecyclerView 
+- Mise en place d'une base de donnée
+- Mise en place d'une API REST 
 - La création de mon propre API (API hébergé sur mon github "dbzApi.json")
 - Le stockage de données en cache 
+
 #### Au niveau de l'architecture du programme:
-- Singletons
-- MVC
+- Clean Architecture
+- MVVM
 - Design
 - Set de l'image de l'application et de la liste d'éléments
 - Set d'image pour chaques personnages
+
 
 ## Fonctionnalités :
 
