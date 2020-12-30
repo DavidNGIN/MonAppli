@@ -30,7 +30,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 - MVVM
 - Design
 - Set de l'image de l'application et de la liste d'éléments
-- Set d'image pour chaques personnages
+
 
 
 ## Fonctionnalités :
