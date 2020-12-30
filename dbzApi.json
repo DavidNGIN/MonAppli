@@ -1,0 +1,49 @@
+{
+"count": 964,
+"next": "https://pokeapi.co/api/v2/pokemon/?offset=20&limit=20",
+"previous": null,
+"results": [
+{
+"name": "Goku",
+"species": "Saiyan",
+"url": "/api/character/Goku",
+"gender": "male"
+},
+{
+"name": "Bulma",
+"species": "Human",
+"url": "/api/character/Bulma",
+"gender": "female"
+},
+{
+"name": "Cell",
+"species": "Android",
+"url": "/api/character/Cell",
+"gender": "male"
+},
+{
+"name": "Vegeta",
+"species": "Saiyan",
+"url": "/api/character/Vegeta",
+"gender": "male"
+},
+{
+"name": "Goten",
+"species": "Saiyan",
+"url": "/api/character/Goten",
+"gender": "male"
+},
+ {
+"name": "Piccolo",
+"species": "Namekian",
+"url": "/api/character/Piccolo",
+"gender": "male"
+},
+{
+"name": "Krillin",
+"species": "Human",
+"url": "/api/character/Krillin",
+"gender": "male"
+} 
+ ]
+}
