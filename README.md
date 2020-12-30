@@ -23,6 +23,7 @@ Voici un projet simple qui permet d'afficher une page de login et une liste cont
 - Mise en place d'une API REST 
 - La création de mon propre API (API hébergé sur mon github "dbzApi.json")
 - Le stockage de données en cache 
+- Tests Unitaires
 
 #### Au niveau de l'architecture du programme:
 - Clean Architecture
