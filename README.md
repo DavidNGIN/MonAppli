@@ -66,3 +66,8 @@ Ainsi quand on va se connecter grâce au bouton LOGIN, nous allons voir un messa
 Voici ensuite la redirection vers la liste :
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/API.PNG)
+
+Enfin, mon application fonctionne aussi sans connexion internet:
+
+
+
