@@ -67,7 +67,15 @@ Voici ensuite la redirection vers la liste :
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/API.PNG)
 
-Enfin, mon application fonctionne aussi sans connexion internet:
+### Enfin, mon application fonctionne aussi sans connexion internet:
+- Stockage de données en cache
+J'active donc le mode avion:
+
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/WITHOUTINTERNET.PNG)
+
+L'application reste toujours fonctionelle :
+
+![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/WITHOUTINTERNET2.PNG)
 
 
 
