@@ -4,7 +4,7 @@
 
 ## Informations générales:
 - projet réalisé par : NGIN David
-- Application : Monappli
+- Application : DBZ
 - Statut : Etudiant
 - Langage utilisé: KOTLIN
 - logiciel utilisé: Android Studio
