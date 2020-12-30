@@ -42,7 +42,7 @@ J'ai donc modifié l'icône android afin de réadapter le logiciel à mon progra
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/Photo1.PNG)
 
 ### la publicité "mensongère:
-- Nous pouvons voir qu'un message POP-UP apparait en turquoise grâce à la fonctionnalité SNACKBAR.
+- Nous pouvons voir qu'un message POP-UP apparait en turquoise lorsqu'on clique sur le bouton "CLICK HERE" grâce à la fonctionnalité SNACKBAR.
 
 ![pictures](https://github.com/DavidNGIN/MonAppli/blob/master/pictures/CLICKPUB.PNG)
 
